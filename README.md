@@ -1,7 +1,7 @@
-This is a minimal example that simulates binary response data and fits a 1-Parameter Logistic (1PL) Item Response Theory (IRT) model using PyTorch.
+This repository contains a minimal working example that simulates binary response data and fits a 1-Parameter Logistic (1PL) Item Response Theory (IRT) model using PyTorch.
 
-## Notes
-The repo is provided as a minimal working example. The script has not been extensively tested and may omit error handling or edge cases.
+## Note
+- This repository is intended as a proof-of-concept demo and can be further developed for pedagogical purposes (e.g., classroom labs on IRT and PyTorch).
 
 ## Requirements
 
@@ -9,7 +9,7 @@ The repo is provided as a minimal working example. The script has not been exten
 - matplotlib
 - tqdm
 
-## Structure (subject to change)
+## Folder structure
 ```text
 .
 ├── RUN_1PL.py  # main script with model, estimation/training, evaluation, and plotting
