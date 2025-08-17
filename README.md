@@ -11,7 +11,8 @@ This repository contains a minimal working example that simulates binary respons
 
 ## Folder structure
 ```text
-example-pytorch-1pl
+example-pytorch-1pl/
+│
 ├── RUN_1PL.py  # main script with model, estimation/training, evaluation, and plotting
 │   ├── Classes:
 │   │   └── IRT_1PL
