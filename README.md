@@ -22,7 +22,8 @@ example-pytorch-1pl/
 │   │   ├── train(...)
 │   │   ├── evaluate(...)
 │   │   ├── plot_est_path(...)
-│   │   └── wrapper(...)
+│   └── └── wrapper(...)
+│
 ├── README.md
 ├── .gitignore
 └── .gitattributes
